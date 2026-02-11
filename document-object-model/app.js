@@ -19,3 +19,4 @@ const updateColor = () => {
 setInterval(updateColor, 1000 * 60);
 
 document.body.style.transition = "300ms";
+
